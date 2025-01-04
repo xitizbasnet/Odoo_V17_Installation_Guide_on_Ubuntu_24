@@ -385,6 +385,5 @@ sudo systemctl restart odoo
 ## Conclusion:
 
 By creating the `odoo` role in PostgreSQL and granting it the `CREATEDB` permission, you should be able to resolve the error and successfully set up your Odoo instance.
-```
 
-
+---
